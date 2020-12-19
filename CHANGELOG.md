@@ -7,6 +7,7 @@ Adicionada páginas iniciais.
 - Adicionado Traduções
   - Português BR (ainda não disponível, apenas vizualmente)
   - Adicionado algumas imagens dos duplicantes (quando você vai na parte de criar um)
+  - Save ainda não disponível, estamos trabalhando em cima dele.
 - Tema padrão Duplicity
 - Carregamento de páginas.
 - Servidor interno
