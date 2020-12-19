@@ -1,9 +1,9 @@
 {
-  "name": "Duplicity: A web-based Oxygen Not Included save file editor.",
-  "short_name": "Duplicity",
+  "name": "Editor de saves.",
+  "short_name": "Oni-save-editor",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "A web-based Oxygen Not Included save file editor.",
+  "description": "Um editor de arquivos de salvamento baseado na web para Oxygen Not Included.",
   "background_color": "#000000"
 }
