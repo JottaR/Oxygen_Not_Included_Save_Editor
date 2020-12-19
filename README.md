@@ -1,7 +1,8 @@
 # Oxygen Not Included Save Editor.
 Um save editor em BR para oxygen.
 
-# Original : https://github.com/RoboPhred/oni-duplicity
+# Original : 
+https://github.com/RoboPhred/oni-duplicity
 
 # Atenção:
 Esta é apenas uma cópia em BR do source, eles demoram para responder as traduções, portanto foi resolvido criar um identico, em BR.
